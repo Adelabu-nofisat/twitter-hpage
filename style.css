@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+.col1{
+    border-right: 1px solid #2f3336;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    display: block;
+    color: #fff;
+    padding: 8px 16px;
+}
+li a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.twitt{
+    background-color: dodgerblue;
+    color: #fff;
+    width: 60%;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.twitt:hover{
+    color: #fff;
+}
+.mavins{
+    position: absolute;
+    bottom: 18px;
+    left: 65px;
+    color: #fff;
+}
+.daunt{
+    position: absolute;
+    top: 590px;
+    left: 65px;
+}
+.dot{
+    margin-left: 170px;
+    margin-top: -25px;
+    color: #fff;
+}
+.col2{
+    border-right: 1px solid #2f3336;
+}
+.home{
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+}
+.form{
+    background-color: #000;
+    width: 70%;
+    border-radius: 20px;
+    border: none;
+    margin-left: 50px;
+    margin-top: -40px;
+}
+.link:hover{
+    text-decoration: none;
+}
+.tweet{
+    background-color: dodgerblue;
+    color: #fff;
+    width: 20%;
+    border-radius: 20px;
+    margin-left: 250px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.tweet:hover{
+    color: #fff;
+}
+hr{
+    background-color: #2f3336;
+}
+.colum{
+    text-align: center;
+}
+.retry{
+    background-color: dodgerblue;
+    width: 25%;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+.cont{
+    width: 80%;
+    background-color: #202327;
+    border-radius: 20px;
+    border: none;
+    padding-left: 40px;
+}
+.search{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    color: #6a6f73;
+}
+.cloud{
+    width: 80%;
+    background-color: #202327;
+    text-align: center;
+    border-radius: 20px;
+    color: #71767b;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+.rety{
+    background-color: dodgerblue;
+    width: 35%;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
